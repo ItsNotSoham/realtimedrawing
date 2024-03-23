@@ -1,0 +1,6 @@
+.heading{font-size: 25px;margin: 0px;width: 100%;box-shadow: 5px 5px 30px gold;}
+.note{font-size: 20px;color: black;font-weight: bold;}
+.footer{position: fixed;bottom: 0;width: 100%;text-align: center;background-color: paleturquoise;color: teal; font-weight: bold;font-size: 20px;}
+canvas{
+    border: 5px dotted cyan;
+}
